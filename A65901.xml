@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle to be read amongst friends in all their meetings</title>
+            <author>Whitehead, John, 1630-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65901</idno>
+            <idno type="STC">Wing W1978</idno>
+            <idno type="STC">ESTC R30198</idno>
+            <idno type="EEBO-CITATION">11259283</idno>
+            <idno type="OCLC">ocm 11259283</idno>
+            <idno type="VID">47191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47191)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1452:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle to be read amongst friends in all their meetings</title>
+                  <author>Whitehead, John, 1630-1696.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: From Lincoln-Castle this 21st of the 10th moneth, 1682. John Whitehead.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:47191:1" rendition="simple:additions"/>
+            <head>A General Epiſtle TO BE Read amongſt Friends in all their MEETINGS.</head>
+            <opener>
+               <salute>Dearly beloved Friends, Brethren and Siſters;</salute>
+            </opener>
+            <p>I Being a Priſoner for the Word of God and Teſti<g ref="char:EOLhyphen"/>mony of Chriſt Jeſus, having not any other way to manifeſt that <hi>Care</hi> &amp; <hi>Love</hi> which is in my heart for you &amp; to you, its come upon me to write this <hi>Epiſtle,</hi> to ſtir you up, by way of Remembrance, to call to mind the days that paſt, wherein the Lord in great Mercy did viſit us, when we walked as other <hi>Gentiles</hi> in the vanity of our Minds, which being alienated from the Life of God, we had not Ability to overcome thoſe Luſts, whereby we were inticed into Evil, to the wounding of our own Souls, and darkening of our own Underſtandings, until it pleaſed the Lord to viſit us with the ſpringing forth of the bleſſed Day of the Son of Righteouſneſs, whoſe holy Light ſhined in our Hearts and Conſciences, which diſcovered unto us our loſt Eſtate and undone Condition, whilſt we lived without God in the World, in which Light the quickening Power of Chriſt Jeſus was manifeſt in our ſelves, which brought us to an inward ſence of
+<pb n="2" facs="tcp:47191:2"/>our own weakneſs and corruption, under which we were truly bowed down, and broken in the Righteous Judgments of God, which brought great Humility and Tenderneſs of Heart and Conſcience in us, through the appearance of his Grace, by which we were exerciſed in his holy Law, which he writ in our hearts, and put his fear in our inward parts; whereby we departed from Evil, and received ability to do good, through the Obe<g ref="char:EOLhyphen"/>dience of the Spirit of Chriſt Jeſus, who waſhed and ſanctified us with his precious Blood, that we might be fitted for his uſe and ſervice, after he had ſo mercifully viſited, illuminated and accepted us. Oh! the Love which God ſhed abroad in our hearts, when he had en<g ref="char:EOLhyphen"/>larged us to run the way of his Precepts, is more than can be expreſſed, which Love conſtrained us to ſeek his Glory, and the good of his ſeattered People, with the hazard of our Lives, Liberties, and whatever elſe was near and dear unto us in this World, we gave it all up through that Love which was the bond of our Friend<g ref="char:EOLhyphen"/>ſhip with God, and one with another, wherein alſo we were edified, and became an Habitation of God, whoſe Tabernacle is with us. And however he hath ſuffered us to be ſmitten with the Rod of men, Loving-kindneſs and Mercy he hath not taken from us, though our Ex<g ref="char:EOLhyphen"/>erciſes have been many, and the Perils and Tribulations which we have gone through, have been of divers kinds, and thoſe with <hi>falſe Brethren</hi> none of the leaſt; for no ſooner did we begin to appear in that Teſtimony which we had received from God, but we had many Adverſa<g ref="char:EOLhyphen"/>ries, beſides the Imitators that from amongſt our ſelves did ariſe, uttering perverſe things, which gave occaſion to Profeſſors and People, who bent their Tongues like Bows againſt us, in <hi>Reproach, cruel Mocking, Reviling,
+<pb n="3" facs="tcp:47191:2"/>Slanders, Stoning</hi> and <hi>Buffiting;</hi> all which the meek Spirit and Life of Chriſt Jeſus manifeſted in us, did ſhine through and overcome, even as the Wind bloweth where it liſteth, and diſperſeth Fogs and Miſts of Darkneſs that ariſe out of the Earth, inſomuch that the Prieſts, who were Ringleaders in thoſe things, were fain to call to the Magiſtrates for help, who imployed their Power to cruſh us, by <hi>Impriſonment, Whipping,</hi> and other wrong<g ref="char:EOLhyphen"/>ful Vexations, as <hi>Finings, Spoiling</hi> us of our <hi>Goods,</hi> and the like: And when that Generation of profeſſing Prieſts ſaw they prevailed nothing, they ſtruck hands with the <hi>Church of England,</hi> which they had exploded, to ſuppreſs us. Yet through all theſe things Truth hath pre<g ref="char:EOLhyphen"/>vailed, and God hath glorified his own Name, in which he gathered us, and hath bleſſed and proſpered us into a People. And now let the <hi>Watch-men</hi> of the <hi>Church of England</hi> beware leſt they ſtrike hands with the <hi>Papiſts,</hi> to help to root us from being a Poſterity in the Earth, leſt they alſo be ſwallowed up of their Helpers; for agian God will glorifie his own Name, and preſerve his People in the ſight of his Enemies, that he may be admired in them that fear him, and truſt in his Name.</p>
+            <p>And now, being ſenſible how that Generation which did ſee the Wonders of the Lord, and were upheld by his mighty Power, is paſſing away, and many of them gone before us to their Everlaſting Inheritance with Chriſt Jeſus in his Kingdom, and another Generation that have heard more, but ſeen and experienced leſs, both of the Wiles of Satan, and operation of God's Power, that diſcovers and breaks his Snares, are entring, who are the Off-ſpring of the Elders, who through Faith and Patience have obtained a good Report, beſides many others who have come into the Vineyard at other hours
+<pb n="4" facs="tcp:47191:3"/>of the day, who muſt all be tryed and proved, as virtuous men have been in all Ages, that have obtained like-precious Faith. And my hearts Deſire and Prayer unto God, is, that we all may be found unto the Praiſe and Glory of God, who hath called us out of Darkneſs, into his marvellous Light, that every one may be counted worthy of Eternal Life, and be made up amongſt the Lords Jewels, and gathered into his Treaſure. And for this cauſe bear with me in a Word of <hi>Exhortation, Warn<g ref="char:EOLhyphen"/>ing</hi> and <hi>Advice,</hi> which in the Love of God I ſend amongſt you, from the movings of the Spirit of Chriſt Jeſus, that quickens us and knits us together, as Members of his Body, in which we both ſuffer and rejoyce one with another, having a ſence and feeling of one anothers Conditions.</p>
+            <p>And <hi>firſt,</hi> I write unto you <hi>Fathers</hi> and <hi>Antients</hi> amongſt the Flock and Family of God, who have known the Lords great work in the beginning, and the manner of his carrying it on, both in your ſelves and others; bleſſed are you of the Lord who keep your Habitation in him, and do humbly walk with him, daily enduring the Croſs of Chriſt Jeſus, and Contradictions of Sinners againſt your ſelves, knowing that the Servant is not greater than his Lord; and that we only can be preſer<g ref="char:EOLhyphen"/>ved, increaſe and grow, as Trees that bear good Fruit, and wither not, by the ſame Principle of Life, which firſt quickened us unto God; and therein let us abide for evermore, and be exerciſed towards God in all your Aſ<g ref="char:EOLhyphen"/>ſemblies, wherein the Overſight and Care of the Flock of God comes upon you, who mark the end of our Conver<g ref="char:EOLhyphen"/>ſation. And therefore that we may be kept holy and blameleſs in the Love of God, and in the Meekneſs, Pa<g ref="char:EOLhyphen"/>tience
+<pb n="5" facs="tcp:47191:3"/>and Humility of Chriſt Jeſus, to be good Examples to them that follow after us, is the earneſt deſire and travail of my Soul.</p>
+            <p>And you that are <hi>Young Men</hi> in the flower of your Strength, becauſe the Word of God abides in you, where<g ref="char:EOLhyphen"/>by you have in a good meaſure overcome the Wicked One: Oh! my <hi>dear Brethren,</hi> watch and be ſober, modeſt and lowly minded, fearing the Lord always, leſt ye be again entangled with any Yoke of Bondage, or Pollutions of the World, which ye have eſcaped through the Power of Chriſt Jeſus, and alſo leaſt ye be inſnared by the Wicked One, whom you have many times overcome; <hi>for by Faith we ſtand,</hi> not bearing the Root, but the Root bears us, whom it behoves to keep on our <hi>Armour of Light,</hi> in which walking, we have <hi>our Feet ſhod with the Preparation of the Goſpel of Peace,</hi> and <hi>the Helmet of Salva<g ref="char:EOLhyphen"/>tion,</hi> and the <hi>Breaſt-plate of Righteouſneſs, the Shield of Faith and Sword of the Spirit,</hi> which is the <hi>Word of God,</hi> by which we are enlightned to ſee the devices of Satan, and his Wiles and Temptations, whoſe deadly Malice is againſt us, and therefore ſeeks to devour us, or bring us into danger, either by inward Temptations or outward Violence, which he ſtirs up in this time of our Tryal and Adverſity, making uſe of thoſe for Inſtruments, that have dealt treacherouſly in the Land of Uprightneſs: And therefore let us be circumſpect in Word and Con<g ref="char:EOLhyphen"/>verſation, committing our Way unto the Lord, <hi>that weigheth the Mountains in Scales, and the Spirits of men as in a Ballance, who with the Breath of his Mouth will ſcatter the Chaff, and diſperſe the Clouds of Darkneſs, which would ob<g ref="char:EOLhyphen"/>ſcure the Glory of Gods heavenly Appearance,</hi> as he hath done in Ages paſt, and likewiſe in our days, as many of you are Witneſſes.</p>
+            <pb n="6" facs="tcp:47191:4"/>
+            <p>So having this Hope, we faint not, but believe the God of Peace will tread Satan under our Feet, and through Chriſt's Power (without whom we can do no<g ref="char:EOLhyphen"/>thing) we ſhall triumph over the wicked One; and as the <hi>Love, Goodneſs</hi> and <hi>Mercy</hi> of the Lord ye have obtained, let the ſame freely run through you, that by Patience, Meekneſs, Long-ſuffering and ſeaſoned Doctrine ye may gather in the ſcattered, and thoſe which have halt<g ref="char:EOLhyphen"/>ed through feebleneſs of mind, by your diligent labour in your Monethly and Quarterly-Meetings, and elſe<g ref="char:EOLhyphen"/>where, may have ſtumbling Blocks removed out of their way, and be confirmed, and all the upright in Heart preſerved in the Unity of the Spirit and Bonds of Peace; and let Love abound in your Hearts one to another, ac<g ref="char:EOLhyphen"/>cording to that old Commandent that Chriſt gave his Diſciples, for in that you may edifie one another; <hi>But the Wrath of man works not the Righteouſneſs of God.</hi>
+            </p>
+            <p>And you Children who have known the <hi>Father,</hi> through the Light of his beloved Son Chriſt Jeſus, who hath ſhined in your Hearts, in whom you have believed, that ye might receive Remiſſion of Sins, for his Names ſake, take diligent heed unto your ſelves, leſt you grieve the Spirit of God, through which you have received the Adoption, and are ſealed unto the day of Redemption: But watch, and be ſober-minded, leſt the Adverſary, that preſents himſelf amongſt the Sons of God, when he comes from walking to and fro in the Earth, get advan<g ref="char:EOLhyphen"/>tage againſt you, and draw your minds out from the pure holy Seed, whereby you are begotten into the love of God, from which fervent Breathings and holy De<g ref="char:EOLhyphen"/>ſires and Godly Zeal ſprings up in broken, tender and humble Hearts, which thereby draws in daily nouriſh<g ref="char:EOLhyphen"/>ment, that keeps you growing, freſh and fruitful,
+<pb n="7" facs="tcp:47191:4"/>whilſt you abide in a Holy Reverence, and are devoutly given up to walk in the true Light &amp; Life of Jeſus Chriſt, who is both our Saviour and Preſerver, without whom we can do nothing well-pleaſing unto God. And there<g ref="char:EOLhyphen"/>fore little Children that abide in him grow more freſh lively and fruitful, than aſpiring Spirits, or lofty Branches that run out till they have loſt their hold in the Root, which ſhould nouriſh them; Oh! how ſoon do they become like Corn on the Houſe top, decay and wither, when their Expectations are fruſtrate, their Faith fails by which they ſhould ſtand, and their De<g ref="char:EOLhyphen"/>ſires grow weak and feeble, their Love and Zeal cold; for where Humility is wanting, there is not a capacity of receiving more Grace: for ſuch who are lifted up, are wiſe in their own Eyes, and conceited that they lack nothing, but abound in their own ſence, and are full of Words, and have not a place in them to receive that Ver<g ref="char:EOLhyphen"/>tue which the Lord is ready and willing to communicate.</p>
+            <p>Therefore, <hi>dear Children,</hi> be not High-minded, but wait upon God in Silence, Humility and pure Fear, that of his fulneſs you may receive Grace ſufficient for you in all your Exerciſes, and a Spring of holy underſtanding, to deliver you from the Snares of Death; for the Lord hath a regard unto you that fear him, and think upon his Name in theſe trying dayes, wherein <hi>The Proud are counted happy, and thoſe that work Wickedneſs are lifted up.</hi> Therefore look not out, nor be diſmayed at what Man can do unto you, whoſe Breath is in his Noſtrils, (for wherein is he to be accounted of?) but be faithful and valiant in keeping your Meetings to wait upon God, and worſhip and ſerve him that made Heaven and Earth, who knows how to glorifie his own Name, and reward all his faithful Servants and Prophets, and them that fear his Name, ſmall and great. So when you ſee the
+<pb n="8" facs="tcp:47191:5"/>Wicked flouriſh like a green Bay-Tree, and live in Wealth and Pleaſure, Proſperity and Dominion, let not your Hearts be troubled, though with Rigour they rule over you, and oppreſs you on every ſide; for the Moſt High beholds it, and hath an Eye open to the cry of the Poor, and will deliver his Children out of the Jaws of the Devourers, and give them a more ſure Reward and everlaſting Inheritance in the ſight of their Enemies, who thought their Life Bitter, and their End without Honour; but the Righteous enter into everlaſting Life, and the Wicked go into everlaſting Puniſhment, and the Gulf is fixed that they cannot change their Minds nor their State, for their Torment endures forever; but the meek and patient Sufferers and faithful Followers of Chriſt Jeſus ſhall enter into their Maſters Joy, which is unſpeakable and full of Glory.</p>
+            <p>And you that are <hi>Convinced,</hi> and have a Profeſſion of Truth from the knowledge of things comprehended in the Underſtanding, from what you have heard and read, and the advantages you have had by your Edu<g ref="char:EOLhyphen"/>cation, it lies upon me to Exhort and Warn you to wait to poſſeſs the true Chriſtian Life, and take heed of reſt<g ref="char:EOLhyphen"/>ing ſatisfied with that which you have taken to your ſelves, <hi>For it is the gift of God that is Eternal Life,</hi> which is to be waited for in the Croſs: And alſo, take heed that you confide not in your Ability to do any thing of your ſelves, for that will be rejected, till you know and inwardly feel the Seed of God, and his work in your Hearts; and this is the Word of God, <hi>That you believe in the Light of Chriſt Jeſus, and be planted into his Death, that dying together with him, his Life may be made manifeſt in your mortal Bodies, that both your Souls and Bodies may be capable of glorifying God, in bringing forth the Fruits of his Spirit, wherein he can delight; for now is
+<pb n="9" facs="tcp:47191:5"/>the Ax laid to the Root of the Tree, and every Tree that bringeth not forth good Fruits, muſt be hewn down and caſt into the Fire:</hi> But the long-Suffering and Pa<g ref="char:EOLhyphen"/>tience of God leadeth to Repentance, and hath been great towards many of you, who have ſtood in a con<g ref="char:EOLhyphen"/>vinced ſtate, but have been negligent and careleſs, not walking worthy of the Mercy of this day, wherein the Lord hath not been awanting to you, but hath viſited you time after time, looking that you ſhould bring forth good Fruit; and through the Interceſſion that hath been made for you, he hath let you alone Year after Year, and his Servants have laboured amongſt you in the Lords Vineyard, that ye might be Fruitful whilſt the Rain hath deſcended upon you: But Oh! how many are yet barren, or like that Ground that doth not bring forth Herbs meet for the Dreſſer, but Bryars and Thorns, and other unſavoury Weeds, which the Lord takes no Pleaſure in; and therefore I am ſenſible that Wrath is kindled againſt that Ground, and thoſe un<g ref="char:EOLhyphen"/>natural Branches that bring forth evil Fruits, who ſit and ſpeak againſt their <hi>Brethren,</hi> and ſlander their <hi>Mothers Children,</hi> who becauſe of his Long-ſuffering have thought the Lord delayed his coming; and there<g ref="char:EOLhyphen"/>fore have joyned with his Enemies, and ſmitten their fellow-Servants, labouring as much as in them lies to expoſe them and all their faithful Teſtimonies to the ſcorn and fury of this prophane and deſperate Age, for which cauſe a Day of Tryal is come, and the Lord will manifeſt whom he hath choſen to feed his Lambs and watch over his Flock, and they ſhall come near unto him, and have the Light of his Countenance, and in all their Troubles be comforted with the preſence of the Lord, whilſt his Indignation ſmoketh againſt all that are treacherous and falſe-hearted, who have not regard<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:47191:6"/>the Glory of the Lord, nor ſought the Proſperity of <hi>Sion</hi> in what they have brought forth, but have ſeen falſe Burthens, and cauſes of Baniſhment, to cauſe the unwary to ſtumble, and turn the ſimple from the right way, and their Reward ſhall be according to their works.</p>
+            <p>Therefore all <hi>dear Friends,</hi> keep your Habitation in the Light, and be Followers of that which is good, that in you may ariſe and encreaſe the firſt Love and Faith by which you believed the Record that God gave of his Son, in the Unity of whoſe Life and Light we were bleſſed and proſpered into a People, and the Lord hath delight in us, and will preſerve us as a Nurſery of tender Plants, from which ſhall ſpring a mighty People, though the Nations are Angry, and may ſeek to hinder the Work of the Lord, who will diſtreſs them, as in Antient time, that they may be tryed that dwell upon the Earth. Where<g ref="char:EOLhyphen"/>fore, all tender hearted Friends, take heed of looking out, but abide in the Light, where there is no occaſion of ſtumbling; for it judges down all evil Thoughts, and ſurmizing one of another, which gender to Strife, and tends to break the Bonds of Love and Friendſhip one to another, which are, and of right ought to be kept in<g ref="char:EOLhyphen"/>violable amongſt the Diſciples of Chriſt, that being the great Commandment he hath given to them, and the principal Mark he hath ſet upon them through all Ge<g ref="char:EOLhyphen"/>nerations.</p>
+            <p>Therefore, <hi>dear Brethren</hi> and <hi>Friends,</hi> love the Lord withal your Hearts, for that is a perfect Bond to keep you in Obedience to him, and love one another as your own Souls, that you may ſympathize one with another in Afflictions, and help, comfort and ſupport one ano<g ref="char:EOLhyphen"/>ther, as the Lord hath helped and comforted you, that it may be manifeſted by your Works, that you have obtained like-precious Faith with the holy Antients, who
+<pb n="11" facs="tcp:47191:6"/>ſaid not to thoſe that were deſtitute and afflicted, <hi>Be thou warmed and filled,</hi> but did miniſter unto them of the Ability that God had given them, that by works of <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> and <hi>Mercy</hi> their Faith might ſhine forth, having Vir<g ref="char:EOLhyphen"/>tue added unto it, which makes the true Faith to differ from the Opinions and Made-Faiths, which will all fail and come to an end; but the <hi>True Faith,</hi> which ſtands in Gods Power ſhall have the Victory, and thoſe that poſſeſs it overcome the World: Even ſo, <hi>Amen.</hi>
+            </p>
+            <div type="prayer">
+               <p>
+                  <hi>LOrd God Everlaſting, keep all thy tender People in the Unity of the Faith that works by Love, that we may be kept near unto thee, and one to another, that thy Delight may be in us, and thy Preſence with us, now that our Adverſaries rage and rore againſt us, &amp; ſeek to lay waſte thy Heritage, and would ſhut the Mouthes of them, that praiſe thee. Wherefore ariſe, O Lord, and ſcatter thine Enemies, that Wickedneſs may come to an End, and Delive<g ref="char:EOLhyphen"/>rance to thy People, ſo ſhall the expectation of bloody and deceitful men be fruſtrate, and their Mouthes ſhut that blaſpheme thy Name, whilſt thou art pleaſed to let thy Glory ſhine in thy holy Tabernacle, which thou haſt pitched amongſt us, upon which Glory let there be a Defence for evermore, that thoſe which have truſt<g ref="char:EOLhyphen"/>ed in thee may not be confounded, but renew their ſtrength in thy Power, to the end of Days and Time, that in Eternity thou maiſt be magnified over all for<g ref="char:EOLhyphen"/>ever.</hi>
+               </p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>From</hi> Lincoln-Caſtle, <date>
+                     <hi>this</hi> 21ſt <hi>of the</hi> 10th <hi>Moneth,</hi> 1682.</date>
+               </dateline>
+               <signed>John Whitehead.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
